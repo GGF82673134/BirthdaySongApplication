@@ -35,7 +35,7 @@
 
     <EditText
 
-        android:hint="name"
+        android:hint="Nickname"
         android:id="@+id/name"
         android:layout_marginTop="10dp"
         android:layout_width="300dp"
