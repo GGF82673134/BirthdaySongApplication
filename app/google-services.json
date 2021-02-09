@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180281292907",
+    "project_id": "birthdaysong-app",
+    "storage_bucket": "birthdaysong-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180281292907:android:f9243ae88bb92b6ca9192e",
+        "android_client_info": {
+          "package_name": "com.example.birthdaysongapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180281292907-560asggcshg89gp6t667g7kvvtbcvum0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJG1Q5VKZcgBYwachCMlRm80GCm12f5Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180281292907-560asggcshg89gp6t667g7kvvtbcvum0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
